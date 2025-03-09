@@ -1,26 +1,34 @@
-# 👋 Hi, I'm Ali!
+# 👋 Hi there, I'm [Your Name]!
 
-Welcome to my GitHub profile! I'm a **ّFrontend Developer** at **Pardazeshgaran Asan-e Ayan**, passionate about building efficient and scalable web applications.
+Welcome to my GitHub profile! 🚀
 
-## 🚀 About Me
-- 🔭 Currently working on **Movie Website with React**
-- 🌱 Learning **WooCommerce API & SEO**
-- 💬 Ask me about **React, Node.js, and Backend Development**
-- ⚡ Fun fact: I enjoy solving complex problems and optimizing performance
+## 🛠️ When I code, I rely on:
+- HTML5
+- CSS3
+- JavaScript
+- React
+- MongoDB
+- TypeScript
+- Git & GitHub
+- Docker
+- Firebase
+- REST APIs
+- GraphQL
+- Tailwind CSS
+- npm
+- Postman
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME)  
+## 📝 My most recent articles
+- [Getting Started with React: A Beginner’s Guide to Setting Up Your First Application](#)
+- [Building Full-Stack Applications with MERN: A Complete Guide](#)
+- [Understanding Asynchronous JavaScript: Callbacks, Promises, and Async/Await](#)
 
-## 💻 Tech Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat&logo=express&logoColor=white) ![WooCommerce](https://img.shields.io/badge/WooCommerce-%238E44AD.svg?style=flat&logo=woocommerce&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=wordpress&logoColor=white)
+If you think I deserve a little pick-me-up, why not treat me to a cup of coffee? 🥺
 
-## 📊 GitHub Stats
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliap102030&show_icons=true&theme=radical)
+[Buy Me A Coffee](#)
 
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aliap102030&theme=onedark)
+## 📊 My GitHub contributions summary
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
 
----
-_💡 This profile README was generated with ❤️ by ChatGPT!_
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
