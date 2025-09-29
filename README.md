@@ -33,7 +33,7 @@ Welcome to my GitHub profile! 🚀
 
 If you think I deserve a little pick-me-up, why not treat me to a cup of coffee? 🥺
 
-[Buy Me A Coffee](#)
+
 
 ## 📊 My GitHub contributions summary
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
