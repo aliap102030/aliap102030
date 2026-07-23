@@ -1,4 +1,4 @@
-# 🎨 Ali Abdollahpoor | Front-End Developer
+#  Ali Abdollahpoor | Front-End Developer
 
 > *"Transforming designs into flawless digital experiences"*
 
