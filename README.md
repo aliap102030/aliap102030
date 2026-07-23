@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Developer** passionate about building scalable, high-performance web applications. I combine clean architecture with pixel-perfect design to deliver products that are both functional and beautiful. Always exploring new technologies — currently focused on **React**, **TypeScript**, **Node.js**, and the **MERN stack**.
+I'm a **FrontEnd Developer** passionate about building scalable, high-performance web applications. I combine clean architecture with pixel-perfect design to deliver products that are both functional and beautiful. Always exploring new technologies — currently focused on **React**, **TypeScript**, **Node.js**, and the **MERN stack**.
 
 ---
 
