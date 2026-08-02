@@ -44,14 +44,6 @@
 
 ---
 
-### 📊 آمار گیت‌هاب
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliap102030&show_icons=true&theme=dark&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aliap102030&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliap102030&layout=compact&theme=dark&hide_border=true)
-
----
-
 ### 📬 راه‌های ارتباطی
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
@@ -59,10 +51,4 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
 
----
 
-<div align="center">
-  <i>⭐️ اگر از پروژه‌های من خوشت اومد، حتماً ستاره‌اش کن!</i>
-  <br>
-  <b>علی عبدالله‌پور | ۲۰۲۶</b>
-</div>
