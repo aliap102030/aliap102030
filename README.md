@@ -50,27 +50,6 @@
 
 </div>
 
----
-
-## 🏆 GitHub Trophy
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=4"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
 
 ## 🚀 Featured Projects
 
@@ -87,7 +66,7 @@
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/aliap102030">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
