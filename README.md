@@ -45,20 +45,7 @@
 | **داشبورد مدیریت** | نمودارهای تعاملی و فیلترهای پیشرفته | React, Tailwind, Recharts |
 | **وب‌سایت شخصی** | نمونه کار با انیمیشن و طراحی مدرن | Next.js, Tailwind, Framer Motion |
 
----
 
-## 📊 آمار فعالیت
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliii-ab&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliii-ab&theme=dark&hide_border=true&background=0D1117" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliii-ab&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" width="40%"/>
-</p>
-
----
 
 ## 📬 راه‌های ارتباطی
 
