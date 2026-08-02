@@ -16,12 +16,12 @@
     }
 
     body {
-      font-family: 'Vazirmatn', 'sans-serif';
+      font-family: 'Vazirmatn', sans-serif;
       background: #0D1117;
       color: #e6edf3;
       line-height: 1.8;
       padding: 40px 20px;
-      max-width: 900px;
+      max-width: 1000px;
       margin: 0 auto;
     }
 
@@ -37,7 +37,6 @@
       text-decoration: underline;
     }
 
-    /* هدر */
     .header {
       text-align: center;
       padding: 30px 0 20px;
@@ -45,7 +44,7 @@
       margin-bottom: 30px;
     }
     .header h1 {
-      font-size: 2.5rem;
+      font-size: 2.8rem;
       background: linear-gradient(135deg, #58a6ff, #f0883e);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
@@ -53,17 +52,20 @@
     }
     .header p {
       color: #8b949e;
-      font-size: 1.1rem;
+      font-size: 1.2rem;
       margin-top: 8px;
     }
 
-    /* بخش‌ها */
     .section {
       background: #161b22;
       border: 1px solid #30363d;
       border-radius: 12px;
       padding: 25px 30px;
       margin-bottom: 25px;
+      transition: all 0.3s ease;
+    }
+    .section:hover {
+      border-color: #58a6ff;
     }
     .section h2 {
       color: #f0f6fc;
@@ -73,41 +75,49 @@
       padding-right: 15px;
     }
 
-    /* Badge‌ها */
     .badges {
       display: flex;
       flex-wrap: wrap;
       gap: 10px;
       justify-content: center;
-      margin: 20px 0;
+      margin: 15px 0;
     }
     .badges img {
-      height: 45px;
+      height: 42px;
+      border-radius: 6px;
     }
 
-    /* مهارت‌ها */
     .skills-grid {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-      gap: 15px;
+      gap: 12px;
       margin-top: 10px;
     }
     .skills-grid li {
       list-style: none;
       background: #0D1117;
-      padding: 10px 15px;
+      padding: 12px 18px;
       border-radius: 8px;
       border: 1px solid #30363d;
       color: #c9d1d9;
+      font-size: 0.95rem;
+    }
+    .skills-grid li:hover {
+      border-color: #58a6ff;
+      background: #161b22;
     }
 
-    /* پروژه */
     .project {
       background: #0D1117;
-      padding: 20px;
+      padding: 20px 25px;
       border-radius: 10px;
       border: 1px solid #30363d;
       margin-bottom: 15px;
+      transition: all 0.3s ease;
+    }
+    .project:hover {
+      border-color: #58a6ff;
+      transform: translateX(-5px);
     }
     .project h3 {
       color: #58a6ff;
@@ -126,13 +136,16 @@
     .project .tech span {
       background: #21262d;
       color: #c9d1d9;
-      padding: 4px 12px;
+      padding: 4px 14px;
       border-radius: 20px;
       font-size: 0.85rem;
       border: 1px solid #30363d;
     }
+    .project .tech span:hover {
+      background: #30363d;
+      border-color: #58a6ff;
+    }
 
-    /* آمار */
     .stats {
       display: flex;
       flex-wrap: wrap;
@@ -144,7 +157,6 @@
       max-width: 100%;
     }
 
-    /* شبکه‌های اجتماعی */
     .social {
       display: flex;
       gap: 15px;
@@ -154,12 +166,15 @@
     }
     .social a {
       display: inline-block;
+      transition: transform 0.2s ease;
+    }
+    .social a:hover {
+      transform: scale(1.05);
     }
     .social img {
       height: 45px;
     }
 
-    /* فوتر */
     .footer {
       text-align: center;
       padding-top: 30px;
@@ -167,8 +182,10 @@
       margin-top: 30px;
       color: #8b949e;
     }
+    .footer .heart {
+      color: #f0883e;
+    }
 
-    /* واکنش‌گرایی */
     @media (max-width: 600px) {
       body {
         padding: 20px 15px;
@@ -177,25 +194,26 @@
         padding: 20px;
       }
       .header h1 {
-        font-size: 1.8rem;
+        font-size: 2rem;
       }
       .skills-grid {
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 1fr;
+      }
+      .badges img {
+        height: 35px;
       }
     }
   </style>
 </head>
 <body>
 
-  <!-- هدر -->
   <div class="header">
     <h1>علی عبدالله‌پور</h1>
     <p>توسعه‌دهنده فرانت‌اند | عاشق کد تمیز و تجربه کاربری عالی</p>
   </div>
 
-  <!-- تکنولوژی‌ها -->
   <div class="section">
-    <h2>🛠️ تکنولوژی‌هایی که کار می‌کنم</h2>
+    <h2>🛠️ تکنولوژی‌ها</h2>
     <div class="badges">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -207,7 +225,6 @@
     </div>
   </div>
 
-  <!-- مهارت‌ها -->
   <div class="section">
     <h2>✨ مهارت‌های کلیدی</h2>
     <ul class="skills-grid">
@@ -220,7 +237,6 @@
     </ul>
   </div>
 
-  <!-- پروژه‌ها -->
   <div class="section">
     <h2>📂 پروژه‌های شاخص</h2>
 
@@ -256,7 +272,6 @@
     </div>
   </div>
 
-  <!-- آمار گیت‌هاب -->
   <div class="section">
     <h2>📊 آمار گیت‌هاب</h2>
     <div class="stats">
@@ -269,7 +284,6 @@
     </div>
   </div>
 
-  <!-- ارتباط با من -->
   <div class="section">
     <h2>📬 راه‌های ارتباطی</h2>
     <div class="social">
@@ -282,13 +296,23 @@
       <a href="mailto:youremail@gmail.com">
         <img src="https://img.shields.io/badge/ایمیل-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
       </a>
+      <a href="https://t.me/yourusername" target="_blank">
+        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+      </a>
     </div>
   </div>
 
-  <!-- فوتر -->
   <div class="footer">
-    <p>⭐️ اگر از پروژه‌های من خوشت اومد، حتماً ستاره‌اش کن!</p>
-    <p style="font-size: 0.85rem; margin-top: 5px;">علی عبدالله‌پور | ۲۰۲۶</p>
+    <p>
+      <span class="heart">❤️</span> ساخته شده با عشق 
+      <span class="heart">❤️</span>
+    </p>
+    <p style="font-size: 0.9rem; margin-top: 5px;">
+      ⭐️ اگر از پروژه‌های من خوشت اومد، حتماً ستاره‌اش کن!
+    </p>
+    <p style="font-size: 0.8rem; margin-top: 8px; color: #606770;">
+      علی عبدالله‌پور | ۲۰۲۶
+    </p>
   </div>
 
 </body>
