@@ -1,54 +1,112 @@
 <div align="center">
-  <h1>علی عبدالله‌پور</h1>
-  <p>توسعه‌دهنده فرانت‌اند | React, JavaScript & Next.js</p>
+
+# Hi there, I'm Ali 👋
+
+### Frontend Developer | React • Next.js • TypeScript
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Experiences;Clean+Code+%26+Beautiful+UI" />
+
 </div>
 
 ---
 
-### 🛠️ تکنولوژی‌ها
+## 🚀 About Me
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- 💻 Frontend Developer
+- ⚛️ Specialized in React & Next.js
+- 🎨 Passionate about UI/UX
+- 📚 Always learning new technologies
+- 🌍 Open to remote opportunities
 
 ---
 
-### ✨ مهارت‌های کلیدی
+## 🛠 Tech Stack
 
-- ✅ طراحی واکنش‌گرا با Tailwind
-- ✅ توسعه کامپوننت در React
-- ✅ مدیریت State (Redux - Context)
-- ✅ بهینه‌سازی عملکرد و Core Web Vitals
-- ✅ کار با Git و GitHub
-- ✅ آشنایی با Next.js
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,wordpress,git,github,vscode,figma,npm" />
 
-### 📂 پروژه‌های شاخص
-
-**🛒 فروشگاه اینترنتی**
-> فروشگاه کامل با سیستم سبد خرید، پرداخت و پروفایل کاربری
-- `React` `Next.js` `Tailwind` `Redux`
-
-**📊 داشبورد مدیریت**
-> داشبورد تحلیلی با نمودارهای تعاملی و فیلترهای پیشرفته
-- `React` `Tailwind` `Recharts`
-
-**🌐 وب‌سایت شخصی**
-> نمونه کار با انیمیشن‌های جذاب و طراحی مدرن
-- `Next.js` `Tailwind` `Framer Motion`
+</p>
 
 ---
 
-### 📬 راه‌های ارتباطی
+## 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliap102030)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
+<div align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophy
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=4"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🍽 MenuPich | Digital Menu Platform |
+| ⚡ React Dashboard | Admin Dashboard |
+| 🎨 UI Components | Reusable Components |
+| 🌐 Portfolio | Personal Portfolio |
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
+
+</div>
