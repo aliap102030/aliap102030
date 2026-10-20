@@ -57,6 +57,14 @@
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
+<a href="https://t.me/YOUR_TELEGRAM">
+<img src="https://cdn.simpleicons.org/telegram/26A5E4" width="48" height="48" alt="Telegram"/>
+</a>
+
+<a href="https://wa.me/YOUR_PHONE">
+<img src="https://cdn.simpleicons.org/whatsapp/25D366" width="48" height="48" alt="WhatsApp"/>
+</a>
+
 </p>
 
 ---
@@ -65,6 +73,6 @@
 
 ### 💙 Thanks for visiting my profile
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=aliap102030&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
 
 </div>
