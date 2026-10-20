@@ -1,52 +1,70 @@
-# Ali
+<div align="center">
 
-**Frontend Developer** — React · Next.js · TypeScript
+# Hi there, I'm Ali 👋
 
-I build production-ready web applications with a focus on performance,
-type safety, and clean UI. Based in Iran, open to remote roles.
+### Frontend Developer | React • Next.js • TypeScript
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Experiences;Clean+Code+%26+Beautiful+UI" />
 
-## Stack
-
-**Core** · React, Next.js (App Router), TypeScript, JavaScript (ES2022+)
-**Styling** · Tailwind CSS, CSS Modules, Figma-to-code
-**Tooling** · Node.js, Git, npm / pnpm, Vite, ESLint
-**Other** · WordPress, REST APIs
+</div>
 
 ---
 
-## Selected Projects
+## 🚀 About Me
 
-**[MenuPich](https://github.com/aliap102030)** — Digital menu platform for restaurants.
-Next.js, Tailwind, TypeScript.
-- Server-side rendered menus with dynamic routing
-- Admin panel for menu and category management
-- Responsive UI with RTL support
-
-**[React Dashboard](https://github.com/aliap102030)** — Admin dashboard with
-authentication, data tables, and charts. React, TypeScript.
-- Role-based access control
-- Reusable data-table and chart components
-
-**[UI Components](https://github.com/aliap102030)** — Reusable component library.
-React, TypeScript, Tailwind.
-- Fully typed props with TypeScript
-- Accessible, keyboard-navigable components
+- 💻 Frontend Developer
+- ⚛️ Specialized in React & Next.js
+- 🎨 Passionate about UI/UX
+- 📚 Always learning new technologies
+- 🌍 Open to remote opportunities
 
 ---
 
-## GitHub
+## 🛠 Tech Stack
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=aliap102030&show_icons=true&hide_title=true&hide_border=true&theme=default" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliap102030&layout=compact&hide_border=true" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,wordpress,git,github,vscode,figma,npm" />
+
 </p>
 
 ---
 
-## Contact
+## 🚀 Featured Projects
 
-[GitHub](https://github.com/aliap102030) ·
-[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) ·
-[Email](mailto:YOUR_EMAIL)
+| Project | Description |
+|----------|-------------|
+| 🍽 MenuPich | Digital Menu Platform |
+| ⚡ React Dashboard | Admin Dashboard |
+| 🎨 UI Components | Reusable Components |
+| 🌐 Portfolio | Personal Portfolio |
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/aliap102030">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
+
+</div>
